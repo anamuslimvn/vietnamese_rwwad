@@ -1,0 +1,626 @@
+[
+  {
+    "ID": "4902",
+    "SURAH": "55",
+    "AYAH": "1",
+    "ARABIC_TEXT": "ٱلرَّحۡمَٰنُ",
+    "TRANSLATION": "Ar-Rahman (Đấng Độ Lượng).",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4903",
+    "SURAH": "55",
+    "AYAH": "2",
+    "ARABIC_TEXT": "عَلَّمَ ٱلۡقُرۡءَانَ",
+    "TRANSLATION": "Đấng đã dạy Qur’an.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4904",
+    "SURAH": "55",
+    "AYAH": "3",
+    "ARABIC_TEXT": "خَلَقَ ٱلۡإِنسَٰنَ",
+    "TRANSLATION": "Đấng đã tạo ra con người.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4905",
+    "SURAH": "55",
+    "AYAH": "4",
+    "ARABIC_TEXT": "عَلَّمَهُ ٱلۡبَيَانَ",
+    "TRANSLATION": "Đấng đã dạy (con người) cách diễn giải (bằng lời nói và viết).",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4906",
+    "SURAH": "55",
+    "AYAH": "5",
+    "ARABIC_TEXT": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+    "TRANSLATION": "Mặt trời và mặt trăng (di chuyển) theo sự tính toán chính xác.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4907",
+    "SURAH": "55",
+    "AYAH": "6",
+    "ARABIC_TEXT": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+    "TRANSLATION": "Ngôi sao và cây cối đều quỳ lạy Ngài.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4908",
+    "SURAH": "55",
+    "AYAH": "7",
+    "ARABIC_TEXT": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+    "TRANSLATION": "Bầu trời, Ngài đã nâng nó lên và Ngài đã thiết lập công lý (trên trái đất).",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4909",
+    "SURAH": "55",
+    "AYAH": "8",
+    "ARABIC_TEXT": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+    "TRANSLATION": "Để các ngươi (hỡi con người) không cư xử bất công.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4910",
+    "SURAH": "55",
+    "AYAH": "9",
+    "ARABIC_TEXT": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+    "TRANSLATION": "Các ngươi hãy cân cho đủ và chớ đừng làm cho cán cân thiếu hụt.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4911",
+    "SURAH": "55",
+    "AYAH": "10",
+    "ARABIC_TEXT": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+    "TRANSLATION": "Trái đất, Ngài đã trải rộng nó cho các tạo vật (của Ngài).",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4912",
+    "SURAH": "55",
+    "AYAH": "11",
+    "ARABIC_TEXT": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+    "TRANSLATION": "Trên (trái đất) Ngài cho mọc ra trái quả và cây chà là có bẹ,",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4913",
+    "SURAH": "55",
+    "AYAH": "12",
+    "ARABIC_TEXT": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+    "TRANSLATION": "Và các loại hạt có vỏ và các loại cây có mùi thơm.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4914",
+    "SURAH": "55",
+    "AYAH": "13",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4915",
+    "SURAH": "55",
+    "AYAH": "14",
+    "ARABIC_TEXT": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+    "TRANSLATION": "Ngài đã tạo ra con người (Adam) từ đất sét (phát ra tiếng kêu) như loại làm đồ gốm.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4916",
+    "SURAH": "55",
+    "AYAH": "15",
+    "ARABIC_TEXT": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+    "TRANSLATION": "Ngài đã tạo ra jaan (tổ tiên của loài Jinnn) từ lửa ngọn không khói.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4917",
+    "SURAH": "55",
+    "AYAH": "16",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4918",
+    "SURAH": "55",
+    "AYAH": "17",
+    "ARABIC_TEXT": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+    "TRANSLATION": "(Ngài) là Thượng Đế của hai phương Đông và hai phương Tây.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4919",
+    "SURAH": "55",
+    "AYAH": "18",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4920",
+    "SURAH": "55",
+    "AYAH": "19",
+    "ARABIC_TEXT": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+    "TRANSLATION": "Ngài đã để hai biển (mặn và ngọt) gặp nhau.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4921",
+    "SURAH": "55",
+    "AYAH": "20",
+    "ARABIC_TEXT": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+    "TRANSLATION": "Giữa chúng có một rào cản, (vì vậy), cả hai đều không xâm phạm nhau.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4922",
+    "SURAH": "55",
+    "AYAH": "21",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4923",
+    "SURAH": "55",
+    "AYAH": "22",
+    "ARABIC_TEXT": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+    "TRANSLATION": "Từ (hai biển đó) cho ra ngọc trai và san hô.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4924",
+    "SURAH": "55",
+    "AYAH": "23",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4925",
+    "SURAH": "55",
+    "AYAH": "24",
+    "ARABIC_TEXT": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+    "TRANSLATION": "(Chỉ một mình) Ngài (có quyền năng) làm cho những con tàu lênh đênh trên biển như những quả núi.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4926",
+    "SURAH": "55",
+    "AYAH": "25",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4927",
+    "SURAH": "55",
+    "AYAH": "26",
+    "ARABIC_TEXT": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+    "TRANSLATION": "Tất cả những ai sống trên (trái đất) đều sẽ bị diệt vong,",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4928",
+    "SURAH": "55",
+    "AYAH": "27",
+    "ARABIC_TEXT": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+    "TRANSLATION": "Chỉ sẽ còn lại mỗi sắc diện Thượng Đế của Ngươi (Thiên Sứ Muhammad), Đấng Quyền Năng Tối Thượng và Danh Dự.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4929",
+    "SURAH": "55",
+    "AYAH": "28",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4930",
+    "SURAH": "55",
+    "AYAH": "29",
+    "ARABIC_TEXT": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ",
+    "TRANSLATION": "Tất cả những ai trong các tầng trời và trái đất đều cần đến Ngài. Mỗi ngày Ngài đều biểu thị công việc.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4931",
+    "SURAH": "55",
+    "AYAH": "30",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4932",
+    "SURAH": "55",
+    "AYAH": "31",
+    "ARABIC_TEXT": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+    "TRANSLATION": "TA sẽ thanh toán các ngươi hỡi hai loài tạo vật (Jinn và con người).",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4933",
+    "SURAH": "55",
+    "AYAH": "32",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4934",
+    "SURAH": "55",
+    "AYAH": "33",
+    "ARABIC_TEXT": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ",
+    "TRANSLATION": "Này hỡi tập thể loài Jinn và tập thể loài người! Nếu các ngươi có khả năng vượt qua được phạm vi của các tầng trời và trái đất thì các ngươi hãy vượt qua! Tuy nhiên, các ngươi sẽ không thể vượt qua được ngoại trừ có thẩm quyền (từ nơi Allah).",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4935",
+    "SURAH": "55",
+    "AYAH": "34",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4936",
+    "SURAH": "55",
+    "AYAH": "35",
+    "ARABIC_TEXT": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+    "TRANSLATION": "Lửa và khói sẽ giáng xuống các ngươi, các ngươi sẽ không được ai giúp đỡ.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4937",
+    "SURAH": "55",
+    "AYAH": "36",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4938",
+    "SURAH": "55",
+    "AYAH": "37",
+    "ARABIC_TEXT": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+    "TRANSLATION": "Khi bầu trời mở ra (để các Thiên Thần đi xuống), nó trở nên đỏ rực như dầu.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4939",
+    "SURAH": "55",
+    "AYAH": "38",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4940",
+    "SURAH": "55",
+    "AYAH": "39",
+    "ARABIC_TEXT": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+    "TRANSLATION": "Vào Ngày đó, sẽ không ai trong loài người và loài Jinn được hỏi về tội lỗi của mình (bởi vì Allah đã biết rõ các việc làm của họ).",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4941",
+    "SURAH": "55",
+    "AYAH": "40",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4942",
+    "SURAH": "55",
+    "AYAH": "41",
+    "ARABIC_TEXT": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ",
+    "TRANSLATION": "Những kẻ tội lỗi sẽ bị nhận diện qua những dấu vết riêng, rồi chúng bị túm lấy phần tóc trước trán và đôi bàn chân.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4943",
+    "SURAH": "55",
+    "AYAH": "42",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4944",
+    "SURAH": "55",
+    "AYAH": "43",
+    "ARABIC_TEXT": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+    "TRANSLATION": "Đây chính là Hỏa Ngục mà những tên tội phạm đã từng phủ nhận.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4945",
+    "SURAH": "55",
+    "AYAH": "44",
+    "ARABIC_TEXT": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+    "TRANSLATION": "Chúng sẽ đi xung quanh giữa Lửa và một loại nước cực nóng.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4946",
+    "SURAH": "55",
+    "AYAH": "45",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4947",
+    "SURAH": "55",
+    "AYAH": "46",
+    "ARABIC_TEXT": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+    "TRANSLATION": "Nhưng đối với ai sợ việc đứng trình diện trước Thượng Đế của y thì sẽ có được hai Ngôi Vườn Thiên Đàng.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4948",
+    "SURAH": "55",
+    "AYAH": "47",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4949",
+    "SURAH": "55",
+    "AYAH": "48",
+    "ARABIC_TEXT": "ذَوَاتَآ أَفۡنَانٖ",
+    "TRANSLATION": "(Ngôi Vườn) có nhánh cây tỏa rộng.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4950",
+    "SURAH": "55",
+    "AYAH": "49",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4951",
+    "SURAH": "55",
+    "AYAH": "50",
+    "ARABIC_TEXT": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+    "TRANSLATION": "Trong hai (Ngôi Vườn) có hai dòng suối chảy.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4952",
+    "SURAH": "55",
+    "AYAH": "51",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4953",
+    "SURAH": "55",
+    "AYAH": "52",
+    "ARABIC_TEXT": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
+    "TRANSLATION": "Trong hai (Ngôi Vườn), mỗi loại trái quả đều có từng cặp.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4954",
+    "SURAH": "55",
+    "AYAH": "53",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4955",
+    "SURAH": "55",
+    "AYAH": "54",
+    "ARABIC_TEXT": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+    "TRANSLATION": "Họ ngả mình trên những chiếc giường được lót bằng gấm lụa, và trái quả trong hai Ngôi Vườn thì gần tầm tay hái.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4956",
+    "SURAH": "55",
+    "AYAH": "55",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4957",
+    "SURAH": "55",
+    "AYAH": "56",
+    "ARABIC_TEXT": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+    "TRANSLATION": "Trong (Thiên Đàng) có các nàng trinh nữ với cái nhìn e thẹn, chưa từng có đàn ông nào trong loài người và loài Jinn đã từng chạm vào.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4958",
+    "SURAH": "55",
+    "AYAH": "57",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4959",
+    "SURAH": "55",
+    "AYAH": "58",
+    "ARABIC_TEXT": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+    "TRANSLATION": "(Các nàng trinh nữ), họ trông giống như những viên hồng ngọc và san hô.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4960",
+    "SURAH": "55",
+    "AYAH": "59",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4961",
+    "SURAH": "55",
+    "AYAH": "60",
+    "ARABIC_TEXT": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ",
+    "TRANSLATION": "Chẳng phải phần thưởng tốt là chỉ dành cho cái tốt đó sao?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4962",
+    "SURAH": "55",
+    "AYAH": "61",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4963",
+    "SURAH": "55",
+    "AYAH": "62",
+    "ARABIC_TEXT": "وَمِن دُونِهِمَا جَنَّتَانِ",
+    "TRANSLATION": "Ngoài hai Ngôi Vườn đó còn có thêm hai Ngôi Vườn khác.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4964",
+    "SURAH": "55",
+    "AYAH": "63",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4965",
+    "SURAH": "55",
+    "AYAH": "64",
+    "ARABIC_TEXT": "مُدۡهَآمَّتَانِ",
+    "TRANSLATION": "(Hai Ngôi Vườn khác đó) có màu xanh đậm.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4966",
+    "SURAH": "55",
+    "AYAH": "65",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4967",
+    "SURAH": "55",
+    "AYAH": "66",
+    "ARABIC_TEXT": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+    "TRANSLATION": "Trong hai (Ngôi Vườn đó) có hai dòng suối chảy liên tục.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4968",
+    "SURAH": "55",
+    "AYAH": "67",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4969",
+    "SURAH": "55",
+    "AYAH": "68",
+    "ARABIC_TEXT": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+    "TRANSLATION": "Trong hai (Ngôi Vườn đó) có đủ loại trái quả, có chà là và lựu.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4970",
+    "SURAH": "55",
+    "AYAH": "69",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4971",
+    "SURAH": "55",
+    "AYAH": "70",
+    "ARABIC_TEXT": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+    "TRANSLATION": "Trong (Ngôi Vườn đó) có các nàng (trinh nữ) hiền thục và xinh đẹp.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4972",
+    "SURAH": "55",
+    "AYAH": "71",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4973",
+    "SURAH": "55",
+    "AYAH": "72",
+    "ARABIC_TEXT": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ",
+    "TRANSLATION": "Các trinh nữ được bảo vệ trong đài các.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4974",
+    "SURAH": "55",
+    "AYAH": "73",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4975",
+    "SURAH": "55",
+    "AYAH": "74",
+    "ARABIC_TEXT": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+    "TRANSLATION": "(Các trinh nữ đó) chưa từng có đàn ông nào trong loài người và loài Jinn đã từng chạm vào.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4976",
+    "SURAH": "55",
+    "AYAH": "75",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4977",
+    "SURAH": "55",
+    "AYAH": "76",
+    "ARABIC_TEXT": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+    "TRANSLATION": "Họ ngả mình trên những chiếc đệm màu xanh lá và những tấm thảm mịn đẹp.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4978",
+    "SURAH": "55",
+    "AYAH": "77",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4979",
+    "SURAH": "55",
+    "AYAH": "78",
+    "ARABIC_TEXT": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+    "TRANSLATION": "Hồng phúc thay Đại Danh của Thượng Đế của Ngươi (Thiên Sứ Muhammad), Đấng Quyền Năng Tối Thượng và Danh Dự.",
+    "FOOTNOTES": ""
+  }
+]
